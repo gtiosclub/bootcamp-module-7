@@ -1,1 +1,1 @@
-# bootcamp-module-7
+# Module 7: MVVM
