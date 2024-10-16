@@ -59,12 +59,12 @@ In this app, we'll be creating a simple grocery list app to create and manage a 
 
 1. **Implementation**
 
-- Implement the list view to display grocery items using SwiftUI components.
-- Using the app screenshot below, recreate the UI for the Grocery application.
-        - Implement the title for the list, similarly to shown below
-        - Create an add product button that would connect to the screen mockup in the below section
-        - Represent each item added from the other view in the below section
-          - Specifically include the quantity for each item, the category, the title, the price, and the notes
+ - Implement the list view to display grocery items using SwiftUI components.
+ - Using the app screenshot below, recreate the UI for the Grocery application.
+   - Implement the title for the list, similarly to shown below
+   - Create an add product button that would connect to the screen mockup in the below section
+   - Represent each item added from the other view in the below section
+     - Specifically include the quantity for each item, the category, the title, the price, and the notes
 
   
 2. **Mockup**
