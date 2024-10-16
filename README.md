@@ -69,6 +69,8 @@ In this app, we'll be creating a simple grocery list app to create and manage a 
   
 2. **Mockup**
 
+<img width="259" alt="Screenshot 2024-10-16 at 2 59 42 PM" src="https://github.com/user-attachments/assets/19b679db-7f4d-46b8-b6bb-ec09d66baa4e">
+
 #### What you've accomplished so far:
 
 - [ ] Displayed grocery items using SwiftUI components.
@@ -87,6 +89,8 @@ In this app, we'll be creating a simple grocery list app to create and manage a 
       - The overall notes to add for the specific item
 
 2. **Mockup**
+
+<img width="261" alt="Screenshot 2024-10-16 at 3 00 05 PM" src="https://github.com/user-attachments/assets/e44cdf34-a076-4e75-9123-0f08365628da">
 
 #### What you've accomplished so far:
 
