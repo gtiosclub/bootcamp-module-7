@@ -1,4 +1,4 @@
-[← Module 4](https://github.com/gtiosclub/bootcamp-module-4) • [Module 6 →](https://github.com/gtiosclub/bootcamp-module-6)
+[← Module 6](https://github.com/gtiosclub/bootcamp-module-6)
 
 # Module 7: Intro to MVVM and Navigation in SwiftUI
 
@@ -9,63 +9,59 @@ In this module, you'll be building a simple grocery list app from scratch using 
 - [ ] Understand the basics of MVVM architecture
 - [ ] Implement a simple MVVM structure in SwiftUI
 - [ ] Add navigation between views
-- [ ] Display grocery items using SwiftUI components
-- [ ] Add interactivity to your app
+- [ ] Create and manage grocery lists using SwiftUI components
+- [ ] Add items to your grocery list
 
 ## Getting Started
 
-- Clone the repo to your local device
-  - You can do this via Xcode or the command line
-- If the project isn't already open, navigate to the project folder and open up `SimpleGroceryListApp.swiftpm`
-- Run the project to make sure everything is loaded properly
-- There should be no errors, and you should be able to see the preview or run the app in the simulator
+- Open Xcode and create a new SwiftUI project named `SimpleGroceryListApp`.
+- Make sure the project is set up correctly and can be run in the simulator.
 
 ## Step 0: Understanding MVVM
 
 Before we start coding, let's understand the basic components of MVVM:
-- **Model**: Represents the grocery item data and the business logic
-- **View**: Represents the UI
-- **ViewModel**: Acts as a bridge between the Model and the View, managing the state and logic
+- **Model**: Represents the grocery item data and the business logic.
+- **View**: Represents the UI.
+- **ViewModel**: Acts as a bridge between the Model and the View, managing the state and logic.
 
-In this app, we'll be creating a simple grocery list app to display a list of grocery items and navigate to a detail view for each item.
+In this app, we'll be creating a simple grocery list app to create and manage a list of grocery items.
 
 ## Step 1: Setting Up the Model
 
-Navigate to the `Models` folder and create a new Swift file named `GroceryItemModel.swift`. Define a simple model for the grocery items.
+Create a simple model for the grocery items.
 
 #### What you've accomplished so far:
 
-- [ ] Created a basic model for your grocery items
+- [ ] Created a basic model for your grocery items.
 
 ## Step 2: Creating the ViewModel
 
-Navigate to the `ViewModels` folder and create a new Swift file named `GroceryViewModel.swift`. Implement a simple ViewModel to manage the list of grocery items.
+Implement a simple ViewModel to manage the list of grocery items.
 
 #### What you've accomplished so far:
 
-- [ ] Created a ViewModel to manage your grocery items
+- [ ] Created a ViewModel to manage your grocery items.
 
 ## Step 3: Building the List View
 
-Navigate to the `Views` folder and create a new Swift file named `GroceryListView.swift`. Implement the list view to display grocery items using SwiftUI components.
+Implement the list view to display grocery items using SwiftUI components.
 
 #### What you've accomplished so far:
 
-- [ ] Displayed grocery items using SwiftUI components
-- [ ] Added navigation to a detail view for each grocery item
+- [ ] Displayed grocery items using SwiftUI components.
+- [ ] Added navigation to create a new grocery list and add items to the list.
 
-## Step 4: Creating the Detail View
+## Step 4: Creating the Add Item View
 
-Create a new Swift file named `GroceryDetailView.swift` in the `Views` folder. Implement the detail view to display the details of a selected grocery item.
+Implement the view to add new items to the grocery list.
 
 #### What you've accomplished so far:
 
-- [ ] Created a detail view to display more information about a grocery item
-- [ ] Implemented navigation to the detail view
+- [ ] Created a view to add new grocery items.
 
 ## Step 5: Running the App
 
-Now, run the app in the simulator or preview mode. You should be able to navigate between the list view of grocery items and the detail view.
+Now, run the app in the simulator or preview mode. You should be able to create a grocery list and add items to the list.
 
 ## Conclusion
 
@@ -73,8 +69,8 @@ You've just built a simple grocery list app using the MVVM architecture and navi
 
 #### What you've accomplished today:
 
-- [ ] Understand the basics of MVVM architecture
-- [ ] Implement a simple MVVM structure in SwiftUI
-- [ ] Add navigation between views
-- [ ] Display grocery items using SwiftUI components
-- [ ] Add interactivity to your app
+- [ ] Understand the basics of MVVM architecture.
+- [ ] Implement a simple MVVM structure in SwiftUI.
+- [ ] Add navigation between views.
+- [ ] Create and manage grocery lists using SwiftUI components.
+- [ ] Add items to your grocery list.
