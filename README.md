@@ -5,7 +5,7 @@
 In this module, you'll be building a simple grocery list app from scratch using the Model-View-ViewModel (MVVM) architecture and implementing navigation between views.
 
 #### What you'll accomplish:
- 
+   
 - [ ] Understand the basics of MVVM architecture
 - [ ] Implement a simple MVVM structure in SwiftUI
 - [ ] Add navigation between views
